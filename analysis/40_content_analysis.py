@@ -14,7 +14,8 @@ RES = os.path.join(HERE, "..", "results")
 THEMES = {
     "Digital ecosystem & platform": r"\becosystems?\b|\bplatforms?\b|\bdigital\b|\bconnectivity\b|\bbroadband\b",
     "Content & media": r"\bcontent\b|\bentertainment\b|\bmusic\b|\bmedia\b|\bstreaming\b|\bsports\b|\bchannels?\b",
-    "Technology & capability": r"\btechnolog(y|ies|ical)\b|\bartificial intelligence\b|\bAI\b|\bR&D\b|\bpatent(s|ed)?\b|\binnovati(on|ve)\b|\bIP\b|\b5G\b|\bengineering\b",
+    # only the acronyms AI, IP and 5G are matched case-sensitively
+    "Technology & capability": r"(?i:\btechnolog(y|ies|ical)\b|\bartificial intelligence\b|R&D|\bpatent(s|ed)?\b|\binnovati(on|ve)\b|\bengineering\b)|\bAI\b|\bIP\b|\b5G\b",
     "Consumer reach & new commerce": r"\bconsumers?\b|\bcustomers?\b|\bomni-?channel\b|\bstores?\b|\bcommerce\b|\bmerchants?\b|\bkiranas?\b|\bMSMEs?\b",
     "Scale & leadership": r"\blargest\b|\bleader(s|ship)?\b|\bleading\b|\bscale\b|\bmarket share\b|\bnationwide\b|\bpan[- ]India\b",
     "Brands & portfolio": r"\bbrands?\b|\bheritage\b|\biconic\b|\bportfolio\b|\bfashion\b|\blifestyle\b",

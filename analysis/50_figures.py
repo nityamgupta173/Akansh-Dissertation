@@ -95,7 +95,7 @@ ax.axhline(0, color=INK2, lw=0.8)
 ax.set_xlabel("Trading days relative to announcement (day 0)")
 ax.set_ylabel("CAAR (%)")
 ax.set_xticks(range(-10, 11, 2))
-ax.legend(fontsize=8, loc="upper left", frameon=True, facecolor="white", edgecolor="white", framealpha=1)
+ax.legend(fontsize=8, loc="upper center", bbox_to_anchor=(0.5, -0.2), ncol=2)
 save(fig, "fig4_4_caar_path.png")
 
 # Figure 4.5: CAR(-1,+1) per acquisition, sorted, coloured by cluster
