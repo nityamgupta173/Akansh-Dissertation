@@ -1,0 +1,5 @@
+test,stat,p,N
+"Kruskal-Wallis CAR(-1,+1) by cluster",5.714379276637345,0.12636403143089225,
+"Kruskal-Wallis CAR(-1,+1) by bower_type",6.408546292417256,0.17064468966920843,
+"Kruskal-Wallis CAR(-1,+1) by relatedness",3.7116743471582083,0.29432839350736123,
+"Spearman CAR(-1,+1) vs relative deal size",0.03913043478260869,0.8559479350713372,24.0

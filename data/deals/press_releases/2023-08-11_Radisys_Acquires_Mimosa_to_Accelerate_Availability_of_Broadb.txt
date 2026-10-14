@@ -1,0 +1,39 @@
+                                                                            NEWS RELEASE
+
+
+           Radisys Acquires Mimosa to Accelerate Availability of
+                  Broadband Access for Advancing Societies
+
+                Portfolio Complements Radisys’ Open Access Portfolio
+
+
+HILLSBORO, OR, U.S. – August 11, 2023 – Radisys® Corporation ("Radisys”), a wholly owned
+subsidiary of Jio Platforms Limited and a global leader of open telecom solutions, today
+announced that it has completed the acquisition of Mimosa Networks, Inc. (“Mimosa”) from
+Airspan Networks Holdings Inc. (NYSE American: MIMO).
+
+
+Mimosa brings a diverse portfolio of point-to-point and point-to-multi-point connectivity products
+leveraging unlicensed spectrum bands. These products enable the rapid rollout of multi-gigabit-
+per-second Fixed Wireless Access networks and wireless backhaul connectivity for
+telecommunications systems. The Mimosa product suite complements Radisys Open Access
+(Connect Open RAN and Connect Open Broadband) portfolio.
+
+
+Mimosa has become a wholly-owned subsidiary of Radisys.
+
+
+About Radisys
+Radisys is a global leader in open telecom solutions and services. Its disaggregated platforms
+and integration services leverage open reference architectures and standards combined with
+open software and hardware, enabling service providers to drive open digital transformation.
+Radisys offers an end-to-end solutions portfolio from digital endpoints, to disaggregated and open
+access and core solutions, to immersive digital applications and engagement platforms. Its world-
+class and experienced network services organization delivers full lifecycle services to help service
+providers build and operate highly scalable and high-performance networks at optimum total cost
+of ownership. For more information, visit https://www.radisys.com/.
+
+
+Radisys® is a registered trademark of Radisys. All other trademarks are the property of their
+respective owners.
+
